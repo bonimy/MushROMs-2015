@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MushROMs", "MushROMs\MushROMs.csproj", "{8D18E1DD-2B16-4169-8E26-CB567090DEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MushROMs.GenericEditor", "MushROMs.GenericEditor\MushROMs.GenericEditor.csproj", "{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MushROMs.Controls", "MushROMs.Controls\MushROMs.Controls.csproj", "{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MushROMs.LunarCompress", "MushROMs.LunarCompress\MushROMs.LunarCompress.csproj", "{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MushROMs.SNES", "MushROMs.SNES\MushROMs.SNES.csproj", "{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MushROMs.Controls.SNES", "MushROMs.Controls.SNES\MushROMs.Controls.SNES.csproj", "{BDB5190A-6084-4BE2-A59A-D793B9745AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D18E1DD-2B16-4169-8E26-CB567090DEC8}.Debug|x64.ActiveCfg = Debug|x64
+		{8D18E1DD-2B16-4169-8E26-CB567090DEC8}.Debug|x64.Build.0 = Debug|x64
+		{8D18E1DD-2B16-4169-8E26-CB567090DEC8}.Debug|x86.ActiveCfg = Debug|x86
+		{8D18E1DD-2B16-4169-8E26-CB567090DEC8}.Debug|x86.Build.0 = Debug|x86
+		{8D18E1DD-2B16-4169-8E26-CB567090DEC8}.Release|x64.ActiveCfg = Release|x64
+		{8D18E1DD-2B16-4169-8E26-CB567090DEC8}.Release|x64.Build.0 = Release|x64
+		{8D18E1DD-2B16-4169-8E26-CB567090DEC8}.Release|x86.ActiveCfg = Release|x86
+		{8D18E1DD-2B16-4169-8E26-CB567090DEC8}.Release|x86.Build.0 = Release|x86
+		{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}.Debug|x64.ActiveCfg = Debug|x64
+		{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}.Debug|x64.Build.0 = Debug|x64
+		{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}.Debug|x86.ActiveCfg = Debug|x86
+		{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}.Debug|x86.Build.0 = Debug|x86
+		{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}.Release|x64.ActiveCfg = Release|x64
+		{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}.Release|x64.Build.0 = Release|x64
+		{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}.Release|x86.ActiveCfg = Release|x86
+		{69EB0AEE-B436-4FC8-9A51-757E29DFFC55}.Release|x86.Build.0 = Release|x86
+		{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}.Debug|x64.ActiveCfg = Debug|x64
+		{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}.Debug|x64.Build.0 = Debug|x64
+		{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}.Debug|x86.ActiveCfg = Debug|x86
+		{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}.Debug|x86.Build.0 = Debug|x86
+		{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}.Release|x64.ActiveCfg = Release|x64
+		{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}.Release|x64.Build.0 = Release|x64
+		{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}.Release|x86.ActiveCfg = Release|x86
+		{CFC3A600-AE49-4196-B9EB-7CC75DE6F006}.Release|x86.Build.0 = Release|x86
+		{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}.Debug|x64.ActiveCfg = Debug|x64
+		{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}.Debug|x64.Build.0 = Debug|x64
+		{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}.Debug|x86.ActiveCfg = Debug|x86
+		{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}.Debug|x86.Build.0 = Debug|x86
+		{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}.Release|x64.ActiveCfg = Release|x64
+		{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}.Release|x64.Build.0 = Release|x64
+		{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}.Release|x86.ActiveCfg = Release|x86
+		{30F94C5D-14A2-48ED-89F0-C7D33078FF8B}.Release|x86.Build.0 = Release|x86
+		{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}.Debug|x64.ActiveCfg = Debug|x64
+		{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}.Debug|x64.Build.0 = Debug|x64
+		{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}.Debug|x86.ActiveCfg = Debug|x86
+		{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}.Debug|x86.Build.0 = Debug|x86
+		{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}.Release|x64.ActiveCfg = Release|x64
+		{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}.Release|x64.Build.0 = Release|x64
+		{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}.Release|x86.ActiveCfg = Release|x86
+		{7F8714D1-A623-49CC-9D43-AA33EA4F9D71}.Release|x86.Build.0 = Release|x86
+		{BDB5190A-6084-4BE2-A59A-D793B9745AE4}.Debug|x64.ActiveCfg = Debug|x64
+		{BDB5190A-6084-4BE2-A59A-D793B9745AE4}.Debug|x64.Build.0 = Debug|x64
+		{BDB5190A-6084-4BE2-A59A-D793B9745AE4}.Debug|x86.ActiveCfg = Debug|x86
+		{BDB5190A-6084-4BE2-A59A-D793B9745AE4}.Debug|x86.Build.0 = Debug|x86
+		{BDB5190A-6084-4BE2-A59A-D793B9745AE4}.Release|x64.ActiveCfg = Release|x64
+		{BDB5190A-6084-4BE2-A59A-D793B9745AE4}.Release|x64.Build.0 = Release|x64
+		{BDB5190A-6084-4BE2-A59A-D793B9745AE4}.Release|x86.ActiveCfg = Release|x86
+		{BDB5190A-6084-4BE2-A59A-D793B9745AE4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
